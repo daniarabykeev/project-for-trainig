@@ -1,9 +1,3 @@
 {
-  "products": [
-    {
-      "title": "qwerty",
-      "price": "100",
-      "id": 1
-    }
-  ]
+  "products": []
 }
